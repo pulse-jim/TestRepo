@@ -138,3 +138,4 @@ C:\dev\TestRepoGit\TestRepoGit\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnot
 C:\dev\TestRepoGit\TestRepoGit\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
 C:\dev\TestRepoGit\TestRepoGit\obj\Debug\NewFolder1\ChildWindow2.g.i.cs
 C:\dev\TestRepoGit\TestRepoGit\obj\Debug\NewFolder1\SilverlightControl1.g.i.cs
+C:\dev\TestRepoGit\TestRepoGit\obj\Debug\NewFolder1\SilverlightControl2.g.i.cs
