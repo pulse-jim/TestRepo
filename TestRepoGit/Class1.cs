@@ -16,6 +16,7 @@ namespace TestRepoGit
         private void jb()
         {
             var c = "";
+            c = "fsdfs";
         }
     }
 }
