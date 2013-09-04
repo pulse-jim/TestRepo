@@ -13,6 +13,9 @@ namespace TestRepoGit
 {
     public class Class1
     {
-
+        private void jb()
+        {
+            var c = "";
+        }
     }
 }
