@@ -22,6 +22,8 @@ namespace TestRepoGit
             var masterchange = "";
             var masterchange2 = "";
 
+            var test_branch2= "";
+
         }
     }
 }
