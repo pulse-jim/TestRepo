@@ -20,6 +20,7 @@ namespace TestRepoGit
             var x = "";
             var masterchange = "";
             var masterchange2 = "";
+            var master = "";
         }
     }
 }
