@@ -17,9 +17,19 @@ namespace TestRepoGit
         {
             var c = "";
             c = "fsdfs";
+<<<<<<< HEAD
             var x = "";
             var masterchange = "";
             var test_branch = "";
+=======
+
+            var x = "";
+            var masterchange = "";
+            var masterchange2 = "";
+
+            var test_branch2= "";
+
+>>>>>>> test-branch2
         }
     }
 }
