@@ -19,6 +19,7 @@ namespace TestRepoGit
             c = "fsdfs";
             var x = "";
             var masterchange = "";
+            var test_branch = "";
         }
     }
 }
