@@ -21,9 +21,6 @@ namespace TestRepoGit
             var x = "";
             var masterchange = "";
             var masterchange2 = "";
-<<<<<<< HEAD
-            var master = "";
-=======
 
 
             var test_brach = "";
@@ -31,8 +28,7 @@ namespace TestRepoGit
 
 
             var master = "";
-
->>>>>>> test-branch
+            var newvar2 = "";
         }
     }
 }
