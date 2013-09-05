@@ -21,14 +21,20 @@ namespace TestRepoGit
             var x = "";
             var masterchange = "";
             var masterchange2 = "";
+<<<<<<< HEAD
+=======
 
+>>>>>>> test-branch
 
             var test_brach = "";
             var test_branch2= "";
 
 
             var master = "";
+<<<<<<< HEAD
+=======
             var newvar2 = "";
+>>>>>>> test-branch
         }
     }
 }
