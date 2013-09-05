@@ -27,6 +27,8 @@ namespace TestRepoGit
 
 
             var master = "";
+
+            var newvar = "";
         }
     }
 }
