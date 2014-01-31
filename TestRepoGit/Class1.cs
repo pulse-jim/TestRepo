@@ -28,7 +28,8 @@ namespace TestRepoGit
 
 
             var master = "";
-            var newvar2 = "";
+
+            var otinanai = "";
         }
     }
 }
